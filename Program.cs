@@ -10,8 +10,7 @@ namespace GitDemo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World"); // this is a comment
-            Console.WriteLine("This is for my third commit");
+            Console.WriteLine("Super cool Stuff");
         }
     }
 }
